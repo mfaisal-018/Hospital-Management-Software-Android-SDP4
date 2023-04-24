@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HMS</string>
+    <string name="welcome_to_my_application">Welcome to HMS</string>
+    
+    <string-array name="timeframes">
+        <item>Select Time you are Available</item>
+        <item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 PM</item>
+        <item>2-4 PM</item>
+        <item>4-6 PM</item>
+
+    </string-array>
+
+
+    <string-array name="department">
+        <item>Select Department</item>
+        <item>Dentist</item>
+        <item>Surgery</item>
+
+    </string-array>
+
+    <string-array name="specialization">
+        <item>Select Specialization</item>
+        <item>General</item>
+        <item>Periodontitis</item>
+
+
+    </string-array>
+</resources>
